@@ -72,3 +72,14 @@
  <br/>
   <!-- <p><b>Note: </b>The top languages are only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.</p> -->
  
+ 
+ ## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/rishabh-batra-0b707914b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="35" width="35" /></a>
+</p>
+ 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ShubhamDot">
+</a>
+<a href="https://github.com/RishabhBatra-2000?tab=followers"><img src="https://img.shields.io/github/followers/RishabhBatra-2000?label=Followers&style=social" alt="GitHub Badge"></a>
