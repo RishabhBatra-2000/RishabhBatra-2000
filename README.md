@@ -44,7 +44,6 @@
 <a href="https://www.renpy.org/latest.html" target="_blank" rel="noreferrer"> <img src="https://github.com/ShubhamDot/ShubhamDot/blob/main/Sources/index-logo.png" alt="html5" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.unity.com" target="_blank" rel="noreferrer"> <img src="https://github.com/ShubhamDot/ShubhamDot/blob/main/Sources/unity.png" alt="html5" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.unreal.com" target="_blank" rel="noreferrer"> <img src="https://github.com/ShubhamDot/ShubhamDot/blob/main/Sources/unreal-engine-logo.jpg" alt="html5" width="40" height="40"/> </a> &nbsp;
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp;
 </p>
 </center>
 <hr/>
