@@ -47,3 +47,14 @@
 </p>
 </center>
 <hr/>
+
+<center>
+<p align="center">
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://rithmapp.s3-us-west-2.amazonaws.com/assets/express-logo.png" alt="express" width="60" height="40"/> </a> &nbsp;
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="firebase" </a> &nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50"/> </a> &nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.1637717834.1604/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.pluraltechnology.com/wp-content/uploads/2017/07/oracle-logo.png" alt="oracle" width="60" height="40"/> </a> &nbsp;
+</p>
+</center>
