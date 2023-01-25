@@ -59,6 +59,11 @@
 </p>
 </center>
 
+📊 My Leetcode Stats
+  <br/>
+
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/RishabhBatra-2000?theme=nord&ext=activity&cache=0)
+
 
  
  ## Connect with me:
