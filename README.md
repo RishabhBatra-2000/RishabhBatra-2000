@@ -21,7 +21,7 @@
 
 <br/>
 <!-- STREAK STATS HERE -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=%20RishabhBatra-2000&theme=dark&hide_border=true)](https://git.io/streak-stats) 
+(https://streak-stats.demolab.com?user=%20RishabhBatra-2000&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
 <center>
  
