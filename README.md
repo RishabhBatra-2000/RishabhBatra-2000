@@ -8,7 +8,7 @@
 ## &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; About Me
 
 -  I’m currently working on ***Note application Using Flutter***
-<a href="https://github.com/RishabhBatra-2000/github-readme-streak-stats"> <img align ="right" alt="RishabhBatra-2000's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhBatra-2000&theme=vue-dark&hide_border=true&stroke=0000"/> </a>
+
 
 <br/>
 
@@ -20,8 +20,9 @@
 
 
 <br/>
-<br/>
-<hr/>
+
+<a href="https://github.com/RishabhBatra-2000/github-readme-streak-stats"> <img align ="right" alt="RishabhBatra-2000's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhBatra-2000&theme=vue-dark&hide_border=true&stroke=0000"/> </a>
+
 <center>
  
 ##  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;🚀Languages and Tools
