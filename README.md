@@ -20,8 +20,8 @@
 
 
 <br/>
-
-<a href="https://github.com/RishabhBatra-2000/github-readme-streak-stats"> <img align ="right" alt="RishabhBatra-2000's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhBatra-2000&theme=vue-dark&hide_border=true&stroke=0000"/> </a>
+<!-- STREAK STATS HERE -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=%20RishabhBatra-2000&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
 <center>
  
