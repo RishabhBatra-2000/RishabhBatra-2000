@@ -21,7 +21,7 @@
 
 <br/>
 <!-- STREAK STATS HERE -->
-<a href="https://git.io/streak-stats"> <img align ="right" alt="ShubhamDot's streak" src="https://streak-stats.demolab.com?user=%20RishabhBatra-2000&theme=dark&hide_border=true&sideNums=EBEBEB&fire=EBE500&ring=EBE500"/> </a>
+<a [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) </a>
 
 
 <center>
